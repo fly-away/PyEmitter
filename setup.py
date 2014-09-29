@@ -8,7 +8,7 @@ setup(
     author='Dean Gardiner',
     author_email='me@dgardiner.net',
 
-    packages={'': 'pyemitter'},
+    packages=['pyemitter'],
     platforms='any',
 
     classifiers=[
